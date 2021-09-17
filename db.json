@@ -1,31 +1,84 @@
 {
-  "posts": [
+  "chatItems": [
     {
       "id": 1,
-      "title": "Post 1"
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
     },
-    {
+   {
       "id": 2,
-      "title": "Post 2"
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
     },
     {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id":3,
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id": 4,
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
+    },
+    {
+      "id": 5,
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
+    },
+    {
+      "id": 6,
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
+    },
+    {
+      "id": 6,
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
+    },
+    {
+      "id": 6,
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
+    },
+    {
+      "id": 6,
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
+    },
+    {
+      "id": 6,
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
+    },
+    {
+      "id": 6,
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
+    },
+    {
+      "id": 6,
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
+    },
+    {
+      "id": 6,
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
+    },
+    {
+      "id": 6,
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
+    },
+    {
+      "id": 6,
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
+    },
+    {
+      "id": 6,
+      "lastMessage": "Post 1",
+      "userName":"Wadih Hannouch"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
