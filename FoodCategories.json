@@ -1,4 +1,5 @@
-[
+{
+  "categories":[
   {
     "_id": "620fbb1314e8c56cae0212ad",
     "image": "http://placehold.it/32x32",
@@ -35,3 +36,4 @@
     "category_name": "Dessert"
   }
 ]
+}
