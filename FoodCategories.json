@@ -2,37 +2,37 @@
   "categories":[
   {
     "_id": "620fbb1314e8c56cae0212ad",
-    "image": "http://placehold.it/32x32",
+    "image": "https://picsum.photos/200",
     "category_name": "Soup"
   },
   {
     "_id": "620fbb134693548db4959129",
-    "image": "http://placehold.it/32x32",
+    "image": "https://picsum.photos/150",
     "category_name": "Pasta"
   },
   {
     "_id": "620fbb13a276f6b8df6d5775",
-    "image": "http://placehold.it/32x32",
+    "image": "https://picsum.photos/200?asdasd",
     "category_name": "Chicken"
   },
   {
     "_id": "620fbb134dc5bf6dd3232ebe",
-    "image": "http://placehold.it/32x32",
+    "image": "https://picsum.photos/200?123123",
     "category_name": "Meat"
   },
   {
     "_id": "620fbb134706c9aea3178122",
-    "image": "http://placehold.it/32x32",
+    "image": "https://picsum.photos/200?asds",
     "category_name": "Vegan"
   },
   {
     "_id": "620fbb1389e6bd52af7c98cf",
-    "image": "http://placehold.it/32x32",
+    "image": "https://picsum.photos/200",
     "category_name": "Salads"
   },
   {
     "_id": "620fbb1334341928cf745f0b",
-    "image": "http://placehold.it/32x32",
+    "image": "https://picsum.photos/200",
     "category_name": "Dessert"
   }
 ]
