@@ -17,22 +17,22 @@
   },
   {
     "_id": "620fbb134dc5bf6dd3232ebe",
-    "image": "https://picsum.photos/200?123123",
+    "image": "https://raw.githubusercontent.com/wadihhannouch/apis/master/Images/meat.jpeg",
     "category_name": "Meat"
   },
   {
     "_id": "620fbb134706c9aea3178122",
-    "image": "https://picsum.photos/200?asds",
+    "image": "https://raw.githubusercontent.com/wadihhannouch/apis/master/Images/vegan.jpeg",
     "category_name": "Vegan"
   },
   {
     "_id": "620fbb1389e6bd52af7c98cf",
-    "image": "https://picsum.photos/200",
+    "image": "https://raw.githubusercontent.com/wadihhannouch/apis/master/Images/salad.jpeg",
     "category_name": "Salads"
   },
   {
     "_id": "620fbb1334341928cf745f0b",
-    "image": "https://picsum.photos/200",
+    "image": "https://raw.githubusercontent.com/wadihhannouch/apis/master/Images/dessert.jpeg",
     "category_name": "Dessert"
   }
 ]
