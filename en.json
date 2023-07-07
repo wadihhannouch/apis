@@ -1,10 +1,10 @@
 {
-          'wadih':'wadih en',
-          'Languages': 'Languages',
-          'Notifications': 'Notifications',
-          'Terms & Conditions': 'Terms & Conditions',
-          'Privacy Policy': 'Privacy Policy',
-          'Change Distributor': 'Change Distributor',
+          "wadih":"wadih en",
+          "Languages": "Languages",
+          "Notifications": "Notifications",
+          "Terms & Conditions": "Terms & Conditions",
+          "Privacy Policy": "Privacy Policy",
+          "Change Distributor": "Change Distributor",
           "Profile": "Profile",
           "My Address": "My Address",
           "My Orders": "My Orders",
@@ -30,12 +30,12 @@
           "Total:": "Total:",
           "Order Details": "Order Details",
 
-          ///new
-          //general
+          
+          
           "Update":"Update",
           "Yes":"Yes",
           "No":"No",
-          //profile
+          
           "First Name":"First Name",
           "Second Name":"Second Name",
           "First Name is required":"First Name is required",
@@ -47,6 +47,6 @@
           "Are you sure you want to delete your account?":"Are you sure you want to delete your account?",
           "Delete Account":"Delete Account",
           "Are you sure you want to logout?":"Are you sure you want to logout?",
-          "Logout":"Logout",
+          "Logout":"Logout"
 
         }
