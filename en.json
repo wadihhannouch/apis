@@ -46,5 +46,9 @@
   "+973": "+973",
   "Add To Cart": "Add To Cart",
   "Available Cylinders": "Available Cylinders",
-  "Cylinder capacity:": "Cylinder capacity:"
+  "Cylinder capacity:": "Cylinder capacity:",
+  "Cylinder Description": "Cylinder Description",
+  "A cylinder is a three-dimensional shape consisting of two parallel circular bases, joined by a curved surface. The center of the circular bases overlaps each other to form a right cylinder.": "A cylinder is a three-dimensional shape consisting of two parallel circular bases, joined by a curved surface. The center of the circular bases overlaps each other to form a right cylinder.",
+  "Cancel": "Cancel",
+  "Cancel Order": "Cancel Order"
 }
